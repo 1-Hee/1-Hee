@@ -29,6 +29,4 @@
 - **충북대학교 식물자원학전공**(Chungbuk National University Department of Plant Resources) | *2016.03. ~ 2020.02.*
 
 ### 🎓 교육경험
-- **삼성 청년 소프트웨어 아카데미**(Samsung Software Academy For Youth, SSAFY) | *2022.07. ~*
-
-
+- **삼성 청년 소프트웨어 아카데미**(Samsung Software Academy For Youth, **SSAFY**) | *2022.07.~ now*
