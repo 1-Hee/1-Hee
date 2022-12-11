@@ -1,5 +1,3 @@
-![git-hub bannerv2](https://user-images.githubusercontent.com/79094527/206828982-d37df01f-22ee-4c3e-91a7-29ec44a2825a.jpg)
-
 ### 📝 introduce
 ###### 안녕하세요! 조원희입니다 😀
 
