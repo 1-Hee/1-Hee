@@ -28,3 +28,5 @@
 
 ### 🎓 교육경험
 - **삼성 청년 소프트웨어 아카데미**(Samsung Software Academy For Youth, **SSAFY**) | *2022.07.~ now*
+
+![wonny's GitHub stats](https://github-readme-stats.vercel.app/api?username=1-Hee&show_icons=true&theme=dark)
