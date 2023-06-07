@@ -1,5 +1,5 @@
 ### 📝 introduce
-#### 안녕하세요! 조원희입니다 😀
+#### 안녕하세요! 안드로이드 개발을 좋아하는 개발자 조원희입니다 😀
 
 - **성장의 즐거움을 아는 개발자**
 - **기억하기 위해 기록하는 개발자**
@@ -28,7 +28,7 @@
 - **충북대학교 식물자원학전공**(Chungbuk National University Department of Plant Resources) | *2016.03. ~ 2020.02.*
 
 ### 🎓 교육경험
-- **삼성 청년 소프트웨어 아카데미**(Samsung Software Academy For Youth, **SSAFY**) | *2022.07.~ now*
+- **삼성 청년 소프트웨어 아카데미**(Samsung Software Academy For Youth, **SSAFY**) | *2022.07.~ 2023. 06.*
 
 ![wonny's GitHub stats](https://github-readme-stats.vercel.app/api?username=1-Hee&show_icons=true&theme=dark)
 
