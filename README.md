@@ -6,8 +6,9 @@
 - **어제보다 나은 오늘을 그려가는 개발자**
 
 ### 📔 포트폴리오
-- **https://automatic-fig-5c1.notion.site/Who-am-I-bbabbe2b362c4844b1f6ec8e81026c7f**
- 
+- **https://automatic-fig-5c1.notion.site/bbabbe2b362c4844b1f6ec8e81026c7f**
+
+
 ### 📝 기술블로그
 - **https://1-hee.tistory.com/**
 - **https://velog.io/@1-hee** (이사 가는중) 🏠
