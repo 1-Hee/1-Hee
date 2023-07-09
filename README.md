@@ -14,7 +14,7 @@
 
 ### 📝 기술블로그
 - **https://1-hee.tistory.com/**
-- **https://velog.io/@1-hee** (이사 가는중) 🏠
+
 ### 🛠  기술스택
 
 |Classification|Technology stack|
