@@ -8,7 +8,7 @@
 ### 📔 포트폴리오
 - **https://www.notion.so/bbabbe2b362c4844b1f6ec8e81026c7f**
 
-### 🌐 웹사이트
+### 🌐 포트폴리오 사이트
 - **https://1-hee.github.io/portfolio-site/**
 
 
